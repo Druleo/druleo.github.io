@@ -2,6 +2,6 @@ body {
     font-family: 'Roboto Condensed', serif;
 }
 
-h2{
-    font-size: 20px;
+nav a {
+    text-decoration: none;
 }
