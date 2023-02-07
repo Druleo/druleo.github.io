@@ -1,7 +1,24 @@
 body {
     font-family: 'Roboto Condensed', serif;
+    background-image: radial-gradient(circle at center, #0000 0%, #000 35%), 
+        url("./assets/web/mtg-planeswalker-removebg-preview.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.bg-custom {
+    background-color: #60B0AE;
 }
 
 nav a {
     text-decoration: none;
+}
+
+.wrapper {
+    min-height: 100vh;
+}
+
+.main-h1{
+    text-decoration: underline;
 }
