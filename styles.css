@@ -1,6 +1,6 @@
 body {
     font-family: 'Roboto Condensed', serif;
-    background-image: radial-gradient(circle at center, #0000 0%, #000 35%), 
+    background-image: radial-gradient(circle at center, #0000 0%, #00000080 20%, #000 40%), 
         url("./assets/web/mtg-planeswalker-removebg-preview.png");
     background-repeat: no-repeat;
     background-position: center;
